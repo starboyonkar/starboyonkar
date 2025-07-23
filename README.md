@@ -37,7 +37,7 @@
 
 ---
 
-<img align="right" height="250" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" />
+<img align="left" height="250" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" />
 
 <div align="right">
   <img height="250" src="https://miro.medium.com/v2/resize:fit:1400/1*2uScaB6nrD_RDBHesAg8TQ.gif" />
