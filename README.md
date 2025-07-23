@@ -37,9 +37,15 @@
 
 ---
 
-<img align="left" height="250" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" width="1024" alt="Coder GIF"/>
+</p>
 
-<div align="right">
+---
+
+<img align="center" height="250" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" />
+
+<div align="center">
   <img height="250" src="https://miro.medium.com/v2/resize:fit:1400/1*2uScaB6nrD_RDBHesAg8TQ.gif" />
 </div>
 
