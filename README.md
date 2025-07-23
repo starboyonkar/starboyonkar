@@ -43,10 +43,12 @@
 
 ---
 
-<img align="center" height="250" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" />
+<div align="center">
+  <img height="500" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" />
+</div>
 
 <div align="center">
-  <img height="250" src="https://miro.medium.com/v2/resize:fit:1400/1*2uScaB6nrD_RDBHesAg8TQ.gif" />
+  <img height="500" src="https://miro.medium.com/v2/resize:fit:1400/1*2uScaB6nrD_RDBHesAg8TQ.gif" />
 </div>
 
 <div align="center">
