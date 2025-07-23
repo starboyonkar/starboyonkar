@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"  />
+<img align="left" height="162" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"  />
 
 ###
 
@@ -68,3 +68,16 @@
 </div>
 
 ###
+
+<div align="center">
+  <img height="240" src="https://miro.medium.com/v2/resize:fit:1400/1*2uScaB6nrD_RDBHesAg8TQ.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="320" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif"  />
+</div>
+
+###
+
